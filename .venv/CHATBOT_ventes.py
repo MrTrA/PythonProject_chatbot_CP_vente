@@ -40,20 +40,20 @@ def get_most_relevant_answer(query):
     most_relevant_answer = "Je ne trouve pas de réponse à votre question. Pour plus d'informations, contactez-nous sur tazizpro987@gmail.com."
 
     # Comparer la requête avec chaque question dans le dictionnaire
-      processed_question = preprocess(question)
+    processed_question = preprocess(question)
         
         # Calculate union length and check if it's zero
-        union_length = len(set(query).union(processed_question))
+    union_length = len(set(query).union(processed_question))
         
-        if union_length == 0:  # Handle empty union
+    if union_length == 0:  # Handle empty union
             similarity = 0  # Or assign a default similarity value
-        else:
+    else:
             similarity = len(set(query).intersection(processed_question)) / float(union_length)
 
-        if similarity > max_similarity:
-            max_similarity = similarity
-            most_relevant_question = question
-            most_relevant_answer = qa_pairs[question]
+    if similarity > max_similarity:
+        max_similarity = similarity
+        most_relevant_question = question
+        most_relevant_answer = qa_pairs[question]
 
     return most_relevant_answer
 
