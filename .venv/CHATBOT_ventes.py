@@ -60,7 +60,7 @@ def chatbot(question):
 # Créer une application Streamlit
 def main():
     st.title("AssisBot Client")
-    st.write("Bonjour ! Je suis le chatbot d'assistance client. Posez-moi des questions sur nos produits et services.")
+    st.write("Bonjour ! Je suis le chargé d'assistance client. Posez-moi des questions sur nos produits et services.")
 
     # Initialiser la variable de boucle
     continue_chatting = True
@@ -76,7 +76,7 @@ def main():
 
             # Appeler la fonction du chatbot avec la question et afficher la réponse
             response = chatbot(question)
-            st.write(f"Chatbot : {response}")
+            st.write(f"AssisBot : {response}")
 
         # Demander à l'utilisateur s'il souhaite continuer
         continue_chatting = st.checkbox("Continuer à discuter ?", key=f"checkbox_{iteration}")
