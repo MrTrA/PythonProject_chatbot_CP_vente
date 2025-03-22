@@ -1,0 +1,71 @@
+Bonjour,Bonjour à vous, dites-moi comment je pourrai vous aider !
+Quels produits vendez vous?,Nous vendons des accessoires de mode, des vêtements prêt à porter, des bijoux, des bagues, des bracelets, du maquillage.
+Où se trouve votre magasin?,Nous sommes à Abidjan, Cocody.
+Pouvez vous me livrer?,Nous livrons partout en Côte d'Ivoire.
+Combien coûtent vos produits?,Nos prix varient en fonction du produit souhaité, mais ils sont tout à fait abordable.
+Vos produit sont ils de qualités?,Nos produits sont de qualités et garantis satisfait ou remboursé.
+Quelle est la différence entre les modèles?,Les modèles peuvent être dotés d'une fonctionnalité supplémentaire, ce qui les rend idéal pour à un usage spécifique. Comparé à d'autres modèles, est plus axé sur un usage et a une autonomie légèrement supérieure.
+Quelle est la durée de la garantie?,Tous nos produits sont couverts par une garantie de 2 ans. En cas de problème, nous nous engageons à le réparer ou à le remplacer.
+Avez-vous ce produit dans d'autres couleurs/tailles?, Oui, nous avons une gamme de couleurs/tailles.
+Y a-t-il des promotions en cours?,Oui, en ce moment, nous avons une offre spéciale sur certains produits.
+Pouvez-vous m'accorder une réduction?,Malheureusement, les prix sont fixes. Cependant, nous avons des options de financement ou des offres groupées qui pourraient vous intéresser.
+Quels sont les délais de livraison?,La livraison prend généralement entre 1 et 2 jours ouvrables. Nous vous enverrons un numéro de suivi pour que vous puissiez suivre votre colis.
+Ces boucles d'oreilles sont-elles de bonne qualité ?,Absolument ! Elles sont fabriquées avec des matériaux de haute qualité, et leur design tendance en fait un accessoire incontournable. Mais attention, elles partent vite !
+Les tailles des vêtements sont-elles standard ?,Oui, nos tailles sont standardisées. Cependant, pour un ajustement parfait, consultez notre guide des tailles en ligne. Nos pièces sont tellement prisées qu'elles sont souvent en rupture de stock.
+Les colliers et chaînes sont-ils résistants à l'eau ?,Nos colliers et chaînes sont conçus pour durer. Cependant, pour préserver leur éclat, évitez le contact prolongé avec l'eau. Leur élégance est telle qu'ils sont très demandés.
+Avez-vous des chapeaux et casquettes pour toutes les saisons ?,Oui, nous avons une large gamme de chapeaux et casquettes, adaptés à toutes les saisons et à tous les styles. Ne tardez pas, ils sont très populaires !
+Les chouchous abîment-ils les cheveux ?,Absolument pas ! Nos chouchous sont doux et conçus pour ne pas abîmer vos cheveux. Ils ajoutent une touche de style tout en prenant soin de votre chevelure. Ils se vendent comme des petits pains.
+Vos lunettes de soleil protègent-elles vraiment des UV ?,Bien sûr ! Toutes nos lunettes de soleil offrent une protection UV maximale. Elles sont à la fois tendance et protectrices. Un must-have !
+Les chaînes de cheville et de hanche sont-elles ajustables ?,Oui, nos chaînes sont ajustables pour s'adapter à toutes les morphologies. Elles ajoutent une touche sensuelle et sont très convoitées.
+Les bagues sont-elles disponibles en différentes tailles ?,Oui, nous avons une variété de tailles pour nos bagues. Consultez notre guide des tailles pour trouver la vôtre. Elles sont tellement élégantes qu'elles se vendent rapidement.
+Vos sandales sont-elles confortables pour marcher longtemps ?,Absolument ! Nos sandales sont conçues pour offrir un confort optimal, même pour de longues marches. Elles sont à la fois pratiques et stylées.
+Les produits cosmétiques sont-ils testés sur les animaux ?,Non, tous nos produits cosmétiques sont cruelty-free. Ils sont formulés avec des ingrédients de qualité pour prendre soin de votre peau.
+Vos sacs à main sont-ils résistants ?,Oui, nos sacs à main sont fabriqués avec des matériaux durables et résistants. Ils sont à la fois pratiques et élégants.
+Les parfums ont-ils une longue tenue ?,Nos parfums sont conçus pour avoir une excellente tenue. Vous serez agréablement parfumé(e) toute la journée. Ils sont très appréciés pour leur qualité.
+La lingerie fine est-elle de bonne qualité ?,Notre lingerie fine est fabriquée avec des matériaux de qualité supérieure, alliant confort et sensualité. Elle est conçue pour sublimer votre silhouette.
+Puis-je retourner un article s'il ne me convient pas ?,Bien sûr ! Nous avons une politique de retour flexible. Vous pouvez retourner votre article dans les [nombre] jours suivant l'achat.
+Les paiements en ligne sont-ils sécurisés ?,Absolument ! Nous utilisons des protocoles de sécurité avancés pour protéger vos informations de paiement. Vous pouvez acheter en toute confiance.
+Offrez-vous la livraison gratuite ?,Oui, nous offrons la livraison gratuite pour les commandes supérieures à [montant]. Profitez-en pour vous faire plaisir !
+Avez-vous un programme de fidélité ?,Oui, nous avons un programme de fidélité qui vous permet de cumuler des points et de bénéficier de réductions exclusives. Rejoignez-nous !
+Comment puis-je vous contacter en cas de problème ?,Vous pouvez nous contacter par e-mail, téléphone ou via notre chat en ligne. Nous sommes toujours là pour vous aider.
+Vos produits sont-ils à la mode ?,Absolument ! Nous sélectionnons les dernières tendances pour vous offrir des produits à la pointe de la mode. Vous serez toujours au top !
+Les vêtements taillent-ils petit ou grand ?,Nos vêtements taillent normalement, mais pour être sûr(e), consultez notre guide des tailles en ligne. Les stocks s'épuisent vite, ne manquez pas votre taille !
+Les accessoires de mode sont-ils résistants à l'usure ?,Nos accessoires sont conçus pour durer, avec des matériaux de qualité. Vous aurez un style impeccable longtemps. Ils sont très demandés.
+Les bracelets et boucles d'oreilles sont-ils hypoallergéniques ?,Oui, nos bracelets et boucles d'oreilles sont hypoallergéniques, parfaits pour les peaux sensibles. Leur design unique est très apprécié.
+Les chapeaux et casquettes sont-ils réglables ?,La plupart de nos chapeaux et casquettes sont réglables pour un confort optimal. Ils ajoutent une touche tendance à votre look.
+Les chouchous sont-ils disponibles en différentes couleurs ?,Oui, nous avons une large gamme de couleurs pour nos chouchous. Ils sont doux, élégants et très populaires.
+Les lunettes de soleil sont-elles polarisées ?,Certains de nos modèles sont polarisés pour une protection optimale. Consultez les détails sur notre site. Ces modèles sont très prisés.
+Les chaînes de cheville et de hanche sont-elles en argent ou en or ?,Nous avons des chaînes en argent, en or et en plaqué. Elles ajoutent une touche sensuelle et sont très demandées.
+Les bagues sont-elles ornées de pierres précieuses ?,Certaines de nos bagues sont ornées de pierres précieuses, d'autres sont en métal travaillé. Elles sont toutes élégantes et uniques.
+Les sandales sont-elles adaptées à la plage ?,Oui, nos sandales sont parfaites pour la plage, confortables et résistantes. Elles sont très demandées en été.
+Les produits cosmétiques sont-ils bio ?,Nous avons une gamme de produits bio et naturels. Consultez les détails sur notre site. Ils sont doux pour la peau.
+Les sacs à main ont-ils des compartiments intérieurs ?,Oui, nos sacs à main sont conçus avec des compartiments pratiques. Ils sont à la fois élégants et fonctionnels.
+Les parfums sont-ils disponibles en échantillons ?,Oui, nous proposons des échantillons pour vous permettre de découvrir nos parfums. Ils sont très appréciés pour leur qualité.
+La lingerie fine est-elle transparente ?,Certains modèles sont transparents, d'autres non. Consultez les détails sur notre site. Elle est conçue pour sublimer votre silhouette.
+Puis-je modifier ma commande après l'avoir passée ?,Vous pouvez modifier votre commande dans un délai de [nombre] heures. Contactez-nous rapidement.
+Les produits sont-ils fabriqués en France ?,Certains de nos produits sont fabriqués en France, d'autres à l'étranger. Consultez les détails sur notre site.
+Avez-vous des cartes cadeaux ?,Oui, nous proposons des cartes cadeaux pour faire plaisir à vos proches. C'est le cadeau idéal !
+Comment puis-je suivre ma commande ?,Vous recevrez un numéro de suivi par e-mail dès l'expédition de votre commande. Suivez votre colis en temps réel.
+Vos produits sont-ils éco-responsables ?,Nous avons une gamme de produits éco-responsables. Consultez les détails sur notre site. Ils sont bons pour vous et pour la planète.
+Les promotions sont-elles cumulables ?,Certaines promotions sont cumulables, d'autres non. Consultez les conditions sur notre site. Profitez-en !
+Comment puis-je commander directement depuis Facebook ?,Vous pouvez commander en toute simplicité en commentant "Je prends" sous la photo du produit. Nous vous contacterons en message privé pour finaliser la commande. C'est rapide et sécurisé !
+Les photos que vous publiez sont-elles fidèles aux produits réels ?,Absolument ! Nous prenons soin de photographier nos produits sous différents angles et dans des conditions d'éclairage variées pour vous donner une idée précise de leur apparence réelle. Vous ne serez pas déçu(e) !
+Proposez-vous des vidéos de présentation des produits ?,Oui, nous publions régulièrement des vidéos de présentation de nos produits pour vous montrer leurs détails et leur qualité. C'est comme si vous les aviez en main !
+Comment puis-je être informé(e) des nouvelles collections et promotions ?,Abonnez-vous à notre page Facebook et activez les notifications pour ne rien manquer ! Vous serez toujours au courant des dernières tendances et offres exclusives.
+Organisez-vous des lives shopping sur Facebook ?,Oui, nous organisons régulièrement des lives shopping où vous pouvez découvrir nos produits en direct, poser vos questions et profiter d'offres spéciales. C'est une expérience unique !
+Les avis clients publiés sur votre page sont-ils authentiques ?,Tous les avis que vous voyez sur notre page sont de vrais clients satisfaits. Nous encourageons nos clients à partager leur expérience pour vous aider à faire votre choix.
+Comment puis-je participer à vos concours et jeux-concours sur Facebook ?,Participer à nos concours est simple ! Suivez les instructions indiquées dans la publication du concours. Les gagnants sont toujours ravis de recevoir leurs prix.
+Proposez-vous des conseils de style personnalisés sur Facebook ?,Oui, notre équipe de stylistes est à votre disposition pour vous donner des conseils personnalisés. Envoyez-nous un message privé avec vos questions et nous vous aiderons à trouver le look parfait.
+Comment puis-je contacter votre service client via Facebook ?,Vous pouvez nous contacter en message privé à tout moment. Nous sommes réactifs et toujours prêts à vous aider.
+Les paiements via Facebook Messenger sont-ils sécurisés ?,Oui, nous utilisons des plateformes de paiement sécurisées pour garantir la confidentialité de vos informations. Vous pouvez acheter en toute confiance.
+Proposez-vous des offres spéciales pour les abonnés Facebook ?,Oui, nous proposons régulièrement des offres exclusives réservées à nos abonnés Facebook. Suivez-nous pour en profiter !
+Comment puis-je voir les produits portés par des influenceurs sur Facebook ?,Nous collaborons avec des influenceurs qui portent nos produits. Vous pouvez les voir sur notre page et dans nos stories. Ils sont toujours élégants !
+Les produits présentés sur Facebook sont-ils disponibles en stock ?,Nous mettons à jour régulièrement notre stock sur Facebook. Cependant, certains produits sont très demandés et peuvent être en rupture de stock. Ne tardez pas à commander !
+Comment puis-je voir les photos des clients portant vos produits ?,Nous encourageons nos clients à partager leurs photos en portant nos produits. Vous pouvez les voir sur notre page et dans nos stories. C'est inspirant !
+Proposez-vous des tutoriels pour utiliser vos produits cosmétiques ?,Oui, nous publions des tutoriels pour vous montrer comment utiliser nos produits cosmétiques et obtenir des résultats professionnels. Vous allez adorer !
+Comment puis-je être sûr(e) de la taille des vêtements commandés sur Facebook ?,Consultez notre guide des tailles disponible sur notre page Facebook. Il est détaillé et vous aidera à trouver la taille parfaite.
+Proposez-vous des idées de looks complets avec vos produits ?,Oui, nous publions régulièrement des idées de looks complets pour vous inspirer. Vous serez toujours à la pointe de la mode !
+Comment puis-je savoir si un produit est en promotion sur Facebook ?,Les produits en promotion sont clairement indiqués sur nos publications Facebook. Ne manquez pas nos offres exceptionnelles !
+Proposez-vous des livraisons rapides pour les commandes passées via Facebook ?,Oui, nous proposons des livraisons rapides et fiables. Vous recevrez votre commande dans les meilleurs délais.
+Comment puis-je laisser un avis sur un produit acheté via Facebook ?,Vous pouvez laisser un avis en commentant la publication du produit ou en nous envoyant un message privé. Votre avis est précieux !
+Comment puis-je vous contacter ?, Vous pouvez nous joindre par appelle au : 05 06 33 72 37 ou sur whatsapp au : 05 01 24 15 15 ou sur messenger. Nous serons très heureux de discuter avec vous.
