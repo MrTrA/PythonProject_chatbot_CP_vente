@@ -1,4 +1,5 @@
 Bonjour,Bonjour à vous, dites-moi comment je pourrai vous aider !
+Bonsoir,Bonsoir, comment puis-je vous aider !
 Quels produits vendez vous?,Nous vendons des accessoires de mode, des vêtements prêt à porter, des bijoux, des bagues, des bracelets, du maquillage.
 Où se trouve votre magasin?,Nous sommes à Abidjan, Cocody.
 Pouvez vous me livrer?,Nous livrons partout en Côte d'Ivoire.
